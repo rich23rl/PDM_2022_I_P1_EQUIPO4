@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/drawable/bg_color.xml" value="0.2075" />
+        <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/layout/activity_libros.xml" value="0.2" />
         <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/layout/activity_list_view_libros.xml" value="0.19655797101449277" />
         <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/layout/activity_lista.xml" value="0.19655797101449277" />
         <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/CONADEH/AndroidStudioProjects/PDM_2022_I_P1_EQUIPO4/app/src/main/res/layout/item_listview.xml" value="0.2" />
       </map>
     </option>
   </component>
